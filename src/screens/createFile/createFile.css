@@ -1,0 +1,29 @@
+.Card {
+    width: 33%;
+    padding: 10vh;
+    justify-content: center;
+    margin: auto;
+    margin-top: 10vh;
+    
+}
+
+.form {
+    display: flex;
+    margin: auto;
+    border-color: thistle;
+    flex-direction: column;
+}
+
+.CardHeader {
+    text-align: center;
+    align-self: center;
+}
+
+.AddBtn {
+    justify-content: center;
+    display: flex;
+}
+
+.Icons {
+    justify-content: center;
+}
